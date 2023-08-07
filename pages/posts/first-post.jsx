@@ -6,7 +6,7 @@ import Layouts from "../../components/layouts";
 export default function FirstPost() {
   const YourComponent = () => (
     <Image
-      src="/images/profile.jpg" // Route of the image file
+      src={"/images/profile.jpg"} // Route of the image file
       height={144} // Desired size with correct aspect ratio
       width={144} // Desired size with correct aspect ratio
       alt="Your Name"
@@ -25,7 +25,7 @@ export default function FirstPost() {
         </h2>
         <br />
         <p>image tanpa component library next</p>
-        <img src="/images/profile.jpg" alt="Your Name" />
+        <img src={"/images/profile.jpg"} alt="Your Name" />
 
         <br />
         <p>image menggunakan componen library next/image</p>
@@ -34,7 +34,7 @@ export default function FirstPost() {
           width={144}
           height={144}
           alt="ianganteng"
-        ></Image>
+        />
       </Layouts>
     </>
   );
