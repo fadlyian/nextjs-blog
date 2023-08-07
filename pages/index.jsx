@@ -11,7 +11,10 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>namaku ian ganteng sekali</p>
+        <p>Hai my name is Fadly Sofyansyah my freind usually calls ian.
+        now I'm studying at Dian Nuswantoro University majoring in informatics engineering
+        My dream is to become a software developer. now I'm learning front-end using react with nextJS framework
+        </p>
         
         <p>
         (This is a sample website - you’ll be building a site like this on{' '}
