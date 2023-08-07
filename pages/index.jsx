@@ -12,8 +12,8 @@ export default function Home() {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>Hai my name is Fadly Sofyansyah my freind usually calls ian.
-        now I'm studying at Dian Nuswantoro University majoring in informatics engineering
-        My dream is to become a software developer. now I'm learning front-end using react with nextJS framework
+        Now I'm studying at Dian Nuswantoro University majoring in informatics engineering.
+        My dream is to become a software developer. now I'm learning front-end using react with nextJS framework.
         </p>
         
         <p>
