@@ -32,8 +32,8 @@ export default function Layouts({ children, home }) {
               priority
               src={"/images/profile.jpg"}
               className={utilStyles.borderCircle}
-              height={108}
-              width={108}
+              height={250}
+              width={250}
               alt="ian ganteng"
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
@@ -45,8 +45,8 @@ export default function Layouts({ children, home }) {
                 priority
                 src={"/images/profile.jpg"}
                 className={utilStyles.borderCircle}
-                height={108}
-                width={108}
+                height={250}
+                width={250}
                 alt="ian tampan"
               />
             </Link>
